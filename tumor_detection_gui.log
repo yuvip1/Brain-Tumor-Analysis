@@ -1,0 +1,76 @@
+2025-04-13 15:23:55,877 - WARNING - From C:\Users\Vardaan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-13 16:36:11,395 - WARNING - From C:\Users\Vardaan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-13 16:38:05,933 - ERROR - Failed to load model: A total of 1 objects could not be loaded. Example error message for object <keras.src.optimizers.adam.Adam object at 0x000001DDA4438320>:
+
+Unable to allocate 9.00 MiB for an array with shape (4608, 512) and data type float32
+
+List of objects that could not be loaded:
+[<keras.src.optimizers.adam.Adam object at 0x000001DDA4438320>]
+2025-04-13 16:44:39,509 - WARNING - Failed to read PNG visualization: 
+identity=[ImageReader@0x1de5b7cc350 filename='temp_viz_164.png']
+2025-04-13 16:44:39,525 - WARNING - Failed to read JPG visualization: 
+identity=[ImageReader@0x1de60e0a2d0 filename='temp_viz_164.jpg']
+2025-04-13 18:13:47,492 - WARNING - From C:\Users\Vardaan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-14 21:20:31,306 - WARNING - From C:\Users\Vardaan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-14 21:22:50,250 - WARNING - From C:\Users\Vardaan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-14 21:29:03,614 - WARNING - From C:\Users\Vardaan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-14 21:33:37,191 - WARNING - From C:\Users\Vardaan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-14 21:36:42,079 - WARNING - From C:\Users\Vardaan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-16 09:58:08,793 - WARNING - From C:\Users\Vardaan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-23 21:55:09,081 - WARNING - From C:\Users\Vardaan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-28 10:40:38,320 - WARNING - From C:\Users\Vardaan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-04-28 11:05:29,628 - ERROR - Error in report generation thread: main thread is not in main loop
+2025-04-28 11:05:29,919 - ERROR - Error in report generation thread: main thread is not in main loop
+2025-05-11 14:17:39,094 - WARNING - From C:\Users\Vardaan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-06-09 14:09:39,697 - WARNING - From C:\Users\Vardaan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-06-26 23:25:58,790 - WARNING - From C:\Users\Vardaan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-02-28 03:35:07,005 - WARNING - From C:\Users\yuvra\Downloads\brain tumor\venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-02-28 03:36:43,891 - WARNING - From C:\Users\yuvra\Downloads\brain tumor\venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-02-28 03:43:43,287 - WARNING - From C:\Users\yuvra\Downloads\brain tumor\venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-03-25 22:45:52,562 - WARNING - From C:\Users\yuvra\Downloads\brain tumor\venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-03-25 23:32:00,712 - WARNING - From C:\Users\yuvra\Downloads\brain tumor\venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-03-26 01:04:17,194 - WARNING - From C:\Users\yuvra\Downloads\brain tumor\venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-03-26 01:25:27,543 - WARNING - From C:\Users\yuvra\Downloads\brain tumor\venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-03-26 01:37:41,018 - WARNING - From C:\Users\yuvra\Downloads\brain tumor\venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-03-26 01:42:02,404 - WARNING - From C:\Users\yuvra\Downloads\brain tumor\venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-03-26 01:48:55,445 - WARNING - From C:\Users\yuvra\Downloads\brain tumor\venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-03-26 13:08:12,521 - WARNING - From C:\Users\yuvra\Downloads\brain tumor\venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-03-26 14:13:59,435 - WARNING - From C:\Users\yuvra\Downloads\brain tumor\venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-03-26 15:07:45,743 - WARNING - From C:\Users\yuvra\Downloads\brain tumor\venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-03-28 03:40:06,825 - WARNING - From C:\Users\yuvra\Downloads\brain tumor\venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-03-28 04:12:10,506 - WARNING - From C:\Users\yuvra\Downloads\brain tumor\venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-03-28 05:26:59,112 - WARNING - From C:\Users\yuvra\Downloads\brain tumor\venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-03-28 06:15:59,447 - WARNING - From C:\Users\yuvra\Downloads\brain tumor\venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-03-28 10:19:47,453 - WARNING - From C:\Users\yuvra\Downloads\brain tumor\venv\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
